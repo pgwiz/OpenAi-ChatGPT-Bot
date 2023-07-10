@@ -19,7 +19,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 global.OWNER_NAME = 'WiPTech' // Owner Name
 global.OWNER_NUMBER = ['254775146260'] //Owner Number
 global.BOT_ADMINS = ['254775146260','254796711927'] //Bot admins numbers Like a Sudo Numbers
-global.BLOCK_CHAT = ['254722450475','254724703530'] // If you want Block Bot From Chats Use .jid Command and put Jids
+global.BLOCK_CHAT = ['120363147404508506@g.us'] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
 global.CAPTION = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ WiPTech ᴀɪ ʙᴏᴛ'
 
