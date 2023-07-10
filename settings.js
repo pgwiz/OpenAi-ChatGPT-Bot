@@ -36,7 +36,7 @@ global.SESSION_ID = 'elisa_md@;;;hM9UnQbS#2hG4UlBIb3txJ5nDqiGBQ-bbrNiMb26OEG0lV3
 global.CMD1 = '.ai' // .ai Command
 global.CMD2 = '.gpt' // .ai2 Command
 global.IMAGE_CMD = '.aimg' // .aiimg Command 
-global.PORT = process.env.PORT || '4090' // Port No need Change.
+global.PORT = process.env.PORT || '4050' // Port No need Change.
 
 mess = {
 	owner: '*This Command is only For WiPTech.*',
