@@ -16,7 +16,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'umdefined' // Owner Name
+global.OWNER_NAME = 'destofv9.' // Owner Name
 global.OWNER_NUMBER = ['254794110821'] //Owner Number
 global.BOT_ADMINS = ['254775146260','254794110821'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [ '120363147404508506@g.us', '120363030304247368@g.us'] // If you want Block Bot From Chats Use .jid Command and put Jids
