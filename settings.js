@@ -18,7 +18,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 */
 global.OWNER_NAME = 'N E S H' // Owner Name
 global.OWNER_NUMBER = ['254794110821'] //Owner Number
-global.BOT_ADMINS = ['254790627796','254794110821'] //Bot admins numbers Like a Sudo Numbers
+global.BOT_ADMINS = ['254794110821'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [ '120363147404508506@g.us', '120363030304247368@g.us'] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'high' //Available Quality Are => low | mediam | high
 global.CAPTION = '© ALWAYS MULLAH'
@@ -28,7 +28,7 @@ global.CAPTION = '© ALWAYS MULLAH'
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = ''
-global.SESSION_ID = 'QUEENELISA;;;==wYPZmSyN1aVdHaX1WcthGaad2QBZGeih0Tn1Ec5oFV0pma3VXSL1ETUV0Sjo0QZh1djlVUpwd=128011497452'
+global.SESSION_ID = 'QUEENELISA;;;==wbNVzNx0iUKpXOwkkZkZUbwM0S3AXVtlTROlEc2J1axhlY2ZEZ6NXUf52TjklcaJ1d5k0bpwd=128011497452'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
